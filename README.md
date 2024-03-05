@@ -6,5 +6,6 @@ Task 2 -the task is to make visual highlighting of tiles when the cursor is hove
 Important condition - selection should work only for tiles with grass or bridge. Tiles with water should not be highlighted.
 
 Resolved - I used onMouseEnter and onMouseExit events
-https://github.com/ArsenPetrossov/Physics_example/assets/157959288/da89a9e1-12d6-4fa3-b529-4517e75d66ac
+
+https://github.com/ArsenPetrossov/Physics_example/assets/157959288/6251f33f-580a-4391-9815-a01b8282bb57
 
